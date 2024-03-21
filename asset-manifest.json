@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ukrainian-camper/static/css/main.7acaea2f.css",
-    "main.js": "/ukrainian-camper/static/js/main.a492fbdd.js",
+    "main.js": "/ukrainian-camper/static/js/main.e9fcf589.js",
     "index.html": "/ukrainian-camper/index.html",
     "main.7acaea2f.css.map": "/ukrainian-camper/static/css/main.7acaea2f.css.map",
-    "main.a492fbdd.js.map": "/ukrainian-camper/static/js/main.a492fbdd.js.map"
+    "main.e9fcf589.js.map": "/ukrainian-camper/static/js/main.e9fcf589.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.a492fbdd.js"
+    "static/js/main.e9fcf589.js"
   ]
 }
