@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/289.e9026e83.chunk.js","mappings":"4IAGA,UAHiB,WACf,OAAOA,EAAAA,EAAAA,KAAA,MAAAC,SAAI,8BACb,C","sources":["pages/Error404.jsx"],"sourcesContent":["const Error404 = () => {\n  return <h2>Oops! 404 - PAGE NOT FOUND</h2>;\n};\nexport default Error404;\n"],"names":["_jsx","children"],"sourceRoot":""}

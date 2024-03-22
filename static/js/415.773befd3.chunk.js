@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkukrainian_camper=self.webpackChunkukrainian_camper||[]).push([[415],{415:function(e,n,a){a.r(n);var r=a(184);n.default=function(){return(0,r.jsx)("h2",{children:"Home Page"})}}}]);
+//# sourceMappingURL=415.773befd3.chunk.js.map
